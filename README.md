@@ -103,9 +103,9 @@ streamlit run ReStart50-Web-MVP.py
 
 🤝 Desenvolvedores
 
-Guilherme Aragão
-Manoela Oliveira 
-Matheus Silva 
-Paula Carregal 
+Guilherme Aragão, 
+Manoela Oliveira, 
+Matheus Silva, 
+Paula Carregal e 
 Pedro Santiago 
 
