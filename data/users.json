@@ -1,0 +1,26 @@
+{
+  "bf878a9d-6c7b-4ae1-b951-dd4769e975db": {
+    "id": "bf878a9d-6c7b-4ae1-b951-dd4769e975db",
+    "name": "Carlos Emanuel Carvalho",
+    "email": "carloscarvalo2@gmail.com",
+    "joined": "2025-11-12T11:51:26.919853",
+    "progress": {
+      "c_ai_basics": {
+        "completed": true,
+        "score": 100,
+        "attempts": [
+          {
+            "ts": "2025-11-13T00:15:34.122280",
+            "score": 66,
+            "raw": 2
+          },
+          {
+            "ts": "2025-11-13T00:15:57.951743",
+            "score": 100,
+            "raw": 3
+          }
+        ]
+      }
+    }
+  }
+}

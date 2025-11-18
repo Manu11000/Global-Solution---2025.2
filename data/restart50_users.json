@@ -1,0 +1,35 @@
+{
+  "e6aad73f-3d34-409a-8bbf-1deb8da412e0": {
+    "id": "e6aad73f-3d34-409a-8bbf-1deb8da412e0",
+    "name": "Carlos Emanuel Carvalho",
+    "age": 60,
+    "interests": [
+      "IA"
+    ],
+    "pace": "Devagar (10-20 min/dia)",
+    "progress": {
+      "c_ai_101": true
+    },
+    "quizzes": [
+      {
+        "score": 1
+      },
+      {
+        "score": 2
+      },
+      {
+        "score": 3
+      }
+    ]
+  },
+  "a7bd0e20-5e07-4af8-8e93-a28e50d29026": {
+    "id": "a7bd0e20-5e07-4af8-8e93-a28e50d29026",
+    "name": "",
+    "age": 60,
+    "interests": [
+      "IA"
+    ],
+    "pace": "Mais tempo (40+ min/dia)",
+    "progress": {}
+  }
+}
